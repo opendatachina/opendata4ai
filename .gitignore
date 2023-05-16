@@ -8,3 +8,5 @@ _config.ci.yml
 .parcel-cache
 vendor
 partners-logo.pptx
+.~partners-logo.pptx
+.tool-versions
