@@ -1,6 +1,6 @@
-title: JKAN
-greeting: Welcome to JKAN
-description: A lightweight, backend-free open data portal, powered by Jekyll.
+title: OPENDATA4AI
+greeting: 中国AI数据开放计划
+description: 我们旨在促进中国人工智能数据的开放、规范、负责任流通
 logo: /img/jkan.png
 hero_image: /img/homepage-hero.jpg
 
@@ -12,12 +12,14 @@ schema: default
 
 # Nav bar
 navigation:
-  - title: Datasets
+  - title: AI数据索引
     url: /datasets/
-  - title: Organizations
+  - title: AI数据调研(2022)
     url: /organizations/
-  - title: Categories
+  - title: AI数据协议（木兰-白玉兰协议）
     url: /categories/
+  - title: 关于我们
+    url: /about.html
 
 # Collections
 collections:
@@ -61,20 +63,9 @@ google_analytics:
   enabled: false
   code: "UA-XXXXXX-1"
 
-# US Digital Analytics Program - https://analytics.usa.gov
-digital_analytics_program:
-  enabled: false
-  agency: ""
-  subagency: ""
-
 # Hypothesis.io - Annotator
 hypothesis:
   enabled: false
-
-# Twitter
-twittercard:
-  enabled: false
-  username: "@"
 
 # Open Graph
 opengraph:
